@@ -1,4 +1,8 @@
 ## Olá, eu sou a Livea Brito 👋
+
+<div align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&letterSpacing=1.2px&duration=3000&pause=1000&color=7F3BCEAC&width=435&lines=Prazer!+Me+chamo+Livea+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
   
 - 💻 Tenho interesse em atuar na área de programação, como Analista de Sistemas e Desenvolvedor tanto no Front-end quanto no Back-end (o famoso Full Stack)
 - 📚 💻 Estou cursando Análise e Desenvolvimento de Sistemas no ensino superior
