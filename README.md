@@ -1,10 +1,8 @@
 <div text-align="center">
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=930050&width=435&lines=Ol%C3%A1%2C+sou+a+Livea+Brito!" alt="Typing SVG" /></a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=930050&center=true&width=435&lines=Ol%C3%A1%2C+sou+a+Livea+Brito" alt="Typing SVG" /></a></div>
 
 ##
-
 - 💻 Tenho interesse em atuar na área de programação, como Analista de Sistemas e Desenvolvedor tanto no Front-end quanto no Back-end (o famoso Full Stack)
 - 📚 💻 Estou cursando Análise e Desenvolvimento de Sistemas no ensino superior
 - 📚 📖 Atualmente estou aprendendo a desenvolver programas em Java e Python, aplicações em Dart utilizando Flutter e desenvolvendo sistemas web com HTML, Javascript e CSS
