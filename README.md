@@ -4,9 +4,10 @@
 
 ##
 - 💻 Tenho interesse em atuar na área de programação, como Analista de Sistemas e Desenvolvedor tanto no Front-end quanto no Back-end (o famoso Full Stack)
-- 📚 💻 Estou cursando Análise e Desenvolvimento de Sistemas no ensino superior
-- 📚 📖 Atualmente estou aprendendo a desenvolver programas em Java e Python, aplicações em Dart utilizando Flutter e desenvolvendo sistemas web com HTML, Javascript e CSS
-- 💞️ ⌨️ Procuro colaborar com estágios para aprimorar meus conhecimentos e adquirir novas experiências na área de programação.
+- 📚 💻 Formada em Análise e Desenvolvimento de Sistemas
+- 🌟 Desenvolvedora em formação contínua | Foco em Java + Spring Boot e AWS Cloud
+- ☁️ Apaixonada por tecnologia, inovação e impacto social
+- 🚀 Sempre em busca de aprender, evoluir e criar soluções reais
 
 ##
   <div align="center">
